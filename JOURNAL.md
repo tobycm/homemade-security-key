@@ -9,6 +9,8 @@ title: homemade security key
 
 the S in RP2350 stands for security :)
 
+### Total hours: 21
+
 ## Jul 30 | 14:00 - 21:00 | time to wire up the rp2350a
 
 why did i choose the rp2350 you may ask? the rp2040 is designed to support secure environments when Secure Boot is enabled, and optionally, Secure Lock. These features allow a master key encryption key (MKEK) to be stored in a one-time programmable (OTP) memory region, which is inaccessible from outside secure code. This master key is then used to encrypt all private and secret keys on the device, protecting sensitive data from potential flash memory dumps.
