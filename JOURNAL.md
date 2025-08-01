@@ -36,3 +36,19 @@ pcb is done too!!!! gruesome 3 hours of work :pf:
 ![3d render](assets/3d.png)
 
 okay i will just need to make a case for it and 3d print it
+
+## Jul 31 | 18:00 -  | last sprint before deadline!!
+
+making 3d case and i realized i dont have anything to mount the board in the case lmao. adding a mounting hole real quick
+
+![mounting hole](assets/mounting%20hole.png)
+
+i mean i can just hot glue it 💀
+
+done done!!
+
+![case1](assets/case1.png)
+
+![case2](assets/case2.png)
+
+the pcb will be secured to the case with a tight fit and maybe some hot glue. the case is designed to be printed without supports, so it should be easy to print.

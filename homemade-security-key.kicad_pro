@@ -626,7 +626,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "homemade-security-key.step",
       "svg": "",
       "vrml": ""
     },
